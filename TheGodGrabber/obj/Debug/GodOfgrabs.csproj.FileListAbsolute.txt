@@ -1,0 +1,17 @@
+C:\Users\sergi\Desktop\BlitzCrackTheGODgrabber21D88D9\bin\Release\BlitzCrackTheGODgrabber.exe.config
+C:\Users\sergi\Desktop\BlitzCrackTheGODgrabber21D88D9\bin\Release\BlitzCrackTheGODgrabber.exe
+C:\Users\sergi\Desktop\BlitzCrackTheGODgrabber21D88D9\bin\Release\BlitzCrackTheGODgrabber.pdb
+C:\Users\sergi\Desktop\BlitzCrackTheGODgrabber21D88D9\bin\Release\LeagueSharp.Common.dll
+C:\Users\sergi\Desktop\BlitzCrackTheGODgrabber21D88D9\bin\Release\LeagueSharp.dll
+C:\Users\sergi\Desktop\BlitzCrackTheGODgrabber21D88D9\bin\Release\LeagueSharp.SDK.dll
+C:\Users\sergi\Desktop\BlitzCrackTheGODgrabber21D88D9\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\sergi\Desktop\BlitzCrackTheGODgrabber21D88D9\bin\Release\SharpDX.dll
+C:\Users\sergi\Desktop\BlitzCrackTheGODgrabber21D88D9\bin\Release\clipper_library.dll
+C:\Users\sergi\Desktop\BlitzCrackTheGODgrabber21D88D9\bin\Release\LeagueSharp.Sandbox.dll
+C:\Users\sergi\Desktop\BlitzCrackTheGODgrabber21D88D9\bin\Release\Newtonsoft.Json.dll
+C:\Users\sergi\Desktop\BlitzCrackTheGODgrabber21D88D9\bin\Release\LeagueSharp.xml
+C:\Users\sergi\Desktop\BlitzCrackTheGODgrabber21D88D9\bin\Release\Newtonsoft.Json.pdb
+C:\Users\sergi\Desktop\BlitzCrackTheGODgrabber21D88D9\bin\Release\Newtonsoft.Json.xml
+C:\Users\sergi\Desktop\BlitzCrackTheGODgrabber21D88D9\obj\Debug\GodOfgrabs.csprojResolveAssemblyReference.cache
+C:\Users\sergi\Desktop\BlitzCrackTheGODgrabber21D88D9\obj\Debug\BlitzCrackTheGODgrabber.exe
+C:\Users\sergi\Desktop\BlitzCrackTheGODgrabber21D88D9\obj\Debug\BlitzCrackTheGODgrabber.pdb
